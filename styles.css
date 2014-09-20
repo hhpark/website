@@ -1,0 +1,43 @@
+body {
+    background: #380000 ;
+    background-position: 0px;
+}
+
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top: 0;
+}
+
+
+h1 {
+    font-family: 'Raleway';
+}
+
+
+h3, p, h2 {
+    color: white;
+    font-family: Arial;
+}
+
+.navbar {
+    margin-top: 0;
+    margin-bottom: 0;
+    background: white;
+    font-family: 'Raleway';
+}
+
+.jumbotron {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    color: white;
+    background: #580000;
+}
+
+.carousel {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
