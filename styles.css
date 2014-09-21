@@ -1,6 +1,6 @@
 body {
     background: #380000 ;
-    background-image: url('images/backgrounds/bg.png');
+    background-image: url('images/backgrounds/redcloud.jpg');
     background-position: 0px;
 }
 
@@ -16,17 +16,18 @@ body {
 
 h1 {
     font-family: 'Raleway';
-    color: black;
+    color: white;
 }
 
 
 h3, p, h2 {
-    color: black;
+    color: white;
     font-family: Arial;
 }
 
 h4 {
-    color: black;
+    color: white;
+    font-family: 'Raleway';
 }
 
 .navbar {
@@ -40,27 +41,34 @@ h4 {
 }
 
 .panel {
-    background: white;
-    opacity: 0.8;
+    background: transparent;
+    opacity: 0.7;
     padding-bottom: 0;
+    color: white;
 }
 
 .panel-heading {
-    background: white;
-    opacity: 1.0;
+    background: black;
+    opacity: 0.9;
 }
 
 .jumbotron {
     margin-top: 20px;
     margin-bottom: 10px;
-    color: black;
-    opacity: 0.8;
-    background: white;
+    color: white;
+    opacity: 0.7;
+    background: transparent;
 }
 
 .carousel {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+.list-group {
+    opacity: 0.8
+}
+
+
 
 
